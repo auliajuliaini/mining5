@@ -65,7 +65,7 @@
             "algo": null,
             "coin": null,
             "url": "rx-asia.unmineable.com:3333",
-            "user": "xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u DOGE:DRwHVx7rsS2PFgvXG1L8dgDfvD5GSRUkAA.mining1#70dj-b95u",
+            "user": "xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u DOGE:DRwHVx7rsS2PFgvXG1L8dgDfvD5GSRUkAA.mining5#70dj-b95u",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
